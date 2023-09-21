@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+.link{
+    margin: 20px 60px;
+    padding: 2;
+}
+
+.link a{
+    margin-left: 15px;
+    text-decoration: none;
+    
+}
+
+.link a:hover{
+    color: blue;
+}
